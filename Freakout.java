@@ -2,12 +2,12 @@
  * File: Freakout.java
  * -------------------
  * Name: Cary Turner
- * Section Leader: Thapelo Sebolai
  * 
  * FREAKOUT
  * 
- * This file is a particularly groovy extension of the Breakout program. This program implements all
- * of the original features of the assignment, but adds some "special effects".
+ * Description:
+ * This file is a particularly groovy reimagination of the classic computer game Breakout. This program implements all
+ * of the original features of the game, but adds several special effects.
  */
 
 import acm.graphics.*;
