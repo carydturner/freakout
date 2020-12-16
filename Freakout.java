@@ -1,7 +1,7 @@
 /*
  * File: Freakout.java
  * -------------------
- * Name: Cary Turner
+ * Author: Cary Turner
  * 
  * FREAKOUT
  * 
